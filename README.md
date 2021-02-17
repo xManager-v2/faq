@@ -24,7 +24,8 @@ If you are determined to run this on a non-android device then fire up an Androi
 
 ### Where to download the latest version?
 
-You can always grab the latest version of xManager right here on GitHub. See [the `github.com/xManager-v2/xManager-Spotify` releases](https://github.com/xManager-v2/xManager-Spotify/releases).
+You can always grab the latest version of xManager right here on GitHub. 
+See [the `github.com/xManager-v2/xManager-Spotify` releases section](https://github.com/xManager-v2/xManager-Spotify/releases).
 
 ### Why is xManager showing an older version as 'Latest'?
 
