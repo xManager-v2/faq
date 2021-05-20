@@ -30,7 +30,7 @@ You can always grab the latest version of xManager right here on GitHub.
 
 See [the `github.com/xManager-v2/xManager-Spotify` releases section](https://github.com/xManager-v2/xManager-Spotify/releases).
 
-### Why is xManager showing an older version of Spotify as 'Latest'?
+### Why is xManager showing an older version of Spotify as Latest?
 
 Sometimes the previous cached version is shown instead of the true latest version, pull down in the app to refresh page. Since this FAQ was initially written this bug should have been fixed in newer xManager versions but bugs happen. 
 
@@ -38,11 +38,11 @@ Sometimes the previous cached version is shown instead of the true latest versio
 
 xManager should show which to use under the "MANAGER TOOLS" section where it says "Device CPU". If still unsure, Armeabi-v7a should almost always work.
 
-### Why doesn't xManager have a translation for my language?
+### Why does xManager not have a translation for my language?
 
 xManager translations rely on our users submitting translations to us. Due to time constraints additional language submissions are on pause at the moment. If you are still interested in submitting a translation please visit our support channel to discuss this further. 
 
-### Why isn't "x" feature added to xManager?.. please add it!
+### Why isn't "x" feature added to xManager?
 
 GitHub is not a place to request features or discuss issues outside of the code for xManager itself. Feel free to make a pull request with the relevant code. Anything else is better off suited in our support channel.
 
